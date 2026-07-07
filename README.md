@@ -115,16 +115,16 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 ## 📫 Onde me encontrar
 
 <p align="center">
-  <a href="mailto:onesimosupe@gmail.com">
+  <a href="mailto:onesimosupe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/onesimosupe">
+  <a href="https://linkedin.com/in/onesimosupe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SapiensWizard">
+  <a href="https://github.com/SapiensWizard" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://wa.me/244929128325?text=Ol%C3%A1%20On%C3%A9simo!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20oportunidades.">
+  <a href="https://wa.me/244929128325?text=Ol%C3%A1%20On%C3%A9simo!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20oportunidades." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
