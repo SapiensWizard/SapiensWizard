@@ -284,10 +284,11 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 ## 🏷️ Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dev_Experience-Em_evolução-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_Source-Aprendendo-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Portfólio-Em_construção-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀_Status-Ativo-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_FullStack-Em_Desenvolvimento-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_Open_Source-Contribuindo-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Foco-Backend_e_APIs-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱_Portfólio-Em_construção-yellow?style=for-the-badge" />
 </p>
 
 ---
