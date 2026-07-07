@@ -24,6 +24,18 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 
 ## 🛠️ Tecnologias e Ferramentas
 
+### 📝 Editor de Código
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
+
+### 🔄 Controlo de Versão
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ### 🎨 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,22 +53,23 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
   <img src="https://img.shields.io/badge/Materialize_CSS-EE6E73?style=for-the-badge&logo=materialdesign&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Banco de Dados
+### ⚙️ Backend
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🗄️ Banco de Dados
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🛠️ Ferramentas & Outras Linguagens
+### 💻 Outras Linguagens
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/AWK-000000?style=for-the-badge&logo=awk&logoColor=white" />
 </p>
+
 ---
 
 ## 📊 Estatísticas do GitHub
