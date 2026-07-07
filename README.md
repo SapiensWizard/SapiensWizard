@@ -14,82 +14,106 @@ Sou **Onésimo Supe**, também conhecido como **SapiensWizard**. Desenvolvedor W
 
 Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva a codar todos os dias.
 
-- 👥 Atualmente trabalhando em projetos de **gestão de usuários** e **sistemas web**
-- 🧠 Aprendendo com o **programa de código aberto**
-- 🎯 Foco: **Backend**, **APIs REST**, **bancos de dados** e **integração de sistemas**
-- 💬 Pergunte-me sobre: **JavaScript, Node.js, Python, SQL, Git**
-- ⚡ Curiosidade: Além de programar, sou fascinado por lógica, matemática e ficção científica
+| 💼 Atuação | 🎯 Foco | 📚 Aprendizado |
+|------------|---------|----------------|
+| 👥 Gestão de usuários e sistemas web | ⚙️ Backend, APIs REST, bancos de dados | 🧠 Programa de código aberto |
+| 🔗 Integração de sistemas | 🗄️ MySQL, SQLite, PHP | 🚀 Arquitetura de software |
+
+**💬 Pergunte-me sobre:** JavaScript, Node.js, Python, SQL, Git, PHP  
+**⚡ Curiosidade:** Fascinado por lógica, matemática e ficção científica
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 📝 Editor de Código
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-</p>
-
-### 🔄 Controlo de Versão
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-</p>
-
-### 📦 Frameworks CSS
-<p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Materialize_CSS-EE6E73?style=for-the-badge&logo=materialdesign&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### 🗄️ Banco de Dados
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 💻 Outras Linguagens
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWK-000000?style=for-the-badge&logo=awk&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><strong>📝 Editor</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔄 Versão</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🎨 Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+      <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📦 CSS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Materialize_CSS-EE6E73?style=for-the-badge&logo=materialdesign&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Banco</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>💻 Outras</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWK-000000?style=for-the-badge&logo=awk&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
+<!-- ESTATÍSTICAS ESTÁVEIS (BADGES) - SEMPRE FUNCIONAM -->
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SapiensWizard&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+      <td align="center" width="50%">
+        <h3>📈 Commits e Atividade</h3>
+        <a href="https://github.com/SapiensWizard" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Estatísticas-Completas-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br /><br />
+        <img src="https://img.shields.io/badge/Total_Contribuições-13-blue?style=flat-square" /><br />
+        <img src="https://img.shields.io/badge/Maior_Streak-2_dias-FF6F00?style=flat-square" /><br />
+        <img src="https://img.shields.io/badge/Streak_Atual-2_dias-FF6F00?style=flat-square" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapiensWizard&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" />
+      <td align="center" width="50%">
+        <h3>📊 Linguagens Mais Usadas</h3>
+        <a href="https://github.com/SapiensWizard?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositórios-Todas_linguagens-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br /><br />
+        <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=flat-square&logo=php&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br />
+        <img src="https://img.shields.io/badge/Svelte-10%25-FF3E00?style=flat-square&logo=svelte&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/HTML/CSS-5%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SapiensWizard&theme=radical&hide_border=true" width="70%" />
-</p>
 
 ---
 
@@ -98,9 +122,12 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
         <h3>📋 gestor-usuarios</h3>
-        <p>Sistema Web para gestão de usuários em ambiente de desenvolvimento e testes.</p>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Sistema Web para gestão de usuários em ambiente de desenvolvimento e testes.<br />
+          <strong>🔧 Tecnologias:</strong> PHP
+        </p>
         <p>
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
           <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=for-the-badge" />
@@ -109,9 +136,12 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
           <a href="https://github.com/SapiensWizard/gestor-usuarios" target="_blank">🔗 Ver repositório</a>
         </p>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
         <h3>🚀 HACKATHON</h3>
-        <p>Desafios de lógica de programação, algoritmos e resolução de problemas computacionais.</p>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Desafios de lógica de programação, algoritmos e resolução de problemas.<br />
+          <strong>🔧 Tecnologias:</strong> Lógica e Algoritmos
+        </p>
         <p>
           <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=for-the-badge" />
         </p>
@@ -121,9 +151,12 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
         <h3>🏋️ academia-ippls</h3>
-        <p>Sistema de Gestão de Academia com PHP POO, MySQL, JavaScript e jQuery.</p>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Gestão completa de academia com PHP POO, MySQL, JavaScript e jQuery.<br />
+          <strong>🔧 Tecnologias:</strong> PHP, MySQL, JavaScript, jQuery
+        </p>
         <p>
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -133,9 +166,13 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
           <a href="https://github.com/SapiensWizard/academia-ippls" target="_blank">🔗 Ver repositório</a>
         </p>
       </td>
-      <td width="50%" align="center">
-        <h3>💰 fin-cntl</h3>
-        <p>Sistema web de gestão financeira pessoal desenvolvido individualmente.</p>
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px; border: 2px solid #4CAF50;">
+        <h3>💰 fin-cntl ⭐</h3>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Sistema web de gestão financeira pessoal desenvolvido individualmente.<br />
+          <strong>🔧 Tecnologias:</strong> PHP<br />
+          <strong>🌐 Hospedagem:</strong> <a href="https://fincntl.gt.tc/" target="_blank">https://fincntl.gt.tc/</a>
+        </p>
         <p>
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
           <img src="https://img.shields.io/badge/Status-Privado-lightgrey?style=for-the-badge" />
@@ -144,14 +181,17 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         <p>
           <a href="https://github.com/SapiensWizard/fin-cntl" target="_blank">🔗 Ver repositório</a>
           &nbsp;|&nbsp;
-          <a href="https://fincntl.gt.tc/" target="_blank">🌐 Ver site</a>
+          <a href="https://fincntl.gt.tc/" target="_blank" style="font-weight: bold; color: #4CAF50;">🌐 Ver site</a>
         </p>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
         <h3>🔗 conecta</h3>
-        <p>Plataforma gratuita para gestão, organização e importação de contatos de forma simples e segura.</p>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Plataforma gratuita para gestão, organização e importação de contatos.<br />
+          <strong>🔧 Tecnologias:</strong> Svelte
+        </p>
         <p>
           <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
           <img src="https://img.shields.io/badge/Status-Privado-lightgrey?style=for-the-badge" />
@@ -160,9 +200,12 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
           <a href="https://github.com/SapiensWizard/conecta" target="_blank">🔗 Ver repositório</a>
         </p>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
         <h3>🧙 SapiensWizard</h3>
-        <p>Meu perfil README - Apresentação profissional no GitHub.</p>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Meu perfil README - Apresentação profissional no GitHub.<br />
+          <strong>🔧 Tecnologias:</strong> Markdown
+        </p>
         <p>
           <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
           <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=for-the-badge" />
@@ -179,21 +222,27 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 
 ## 📈 Minhas Contribuições
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SapiensWizard&theme=radical" width="90%" />
-</p>
-
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SapiensWizard&theme=radical" />
+      <td align="center" width="33%">
+        <h3>📊 Total</h3>
+        <img src="https://img.shields.io/badge/13-Commits-blue?style=for-the-badge" />
       </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SapiensWizard&theme=radical" />
+      <td align="center" width="33%">
+        <h3>🔥 Maior Streak</h3>
+        <img src="https://img.shields.io/badge/2-dias-FF6F00?style=for-the-badge" />
+      </td>
+      <td align="center" width="33%">
+        <h3>⚡ Streak Atual</h3>
+        <img src="https://img.shields.io/badge/2-dias-FF6F00?style=for-the-badge" />
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📅_Período-Maio_2025_ao_Presente-181717?style=for-the-badge" />
 </div>
 
 ---
