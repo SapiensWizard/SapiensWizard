@@ -124,7 +124,7 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
   <a href="https://github.com/SapiensWizard">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://wa.me/+244929128325">
+  <a href="https://wa.me/244929128325?text=Ol%C3%A1%20On%C3%A9simo!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20oportunidades.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
