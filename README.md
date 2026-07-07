@@ -109,9 +109,12 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         <p>
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
           <img src="https://img.shields.io/badge/Status-Privado-lightgrey?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Hospedado-Sim-brightgreen?style=for-the-badge" />
         </p>
         <p>
           <a href="https://github.com/SapiensWizard/fin-cntl" target="_blank">🔗 Ver repositório</a>
+          &nbsp;|&nbsp;
+          <a href="https://fincntl.gt.tc/" target="_blank">🌐 Ver site</a>
         </p>
       </td>
     </tr>
