@@ -28,14 +28,15 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 
 <table align="center">
   <tr>
-    <td align="center" width="120"><strong>📝 Editor</strong></td>
+    <td align="center" width="140"><strong>📝 Editor de Código</strong></td>
     <td>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>🔄 Versão</strong></td>
+    <td align="center"><strong>🔄 Controlo de Versão</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -52,7 +53,7 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>📦 CSS</strong></td>
+    <td align="center"><strong>📦 Frameworks CSS</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -67,14 +68,20 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>🗄️ Banco</strong></td>
+    <td align="center"><strong>🗄️ Banco de Dados</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>💻 Outras</strong></td>
+    <td align="center"><strong>🐳 Containers</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>💻 Outras Linguagens</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/AWK-000000?style=for-the-badge&logo=awk&logoColor=white" />
