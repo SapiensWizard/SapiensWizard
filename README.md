@@ -285,10 +285,10 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Status-Ativo-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_FullStack-Em_Desenvolvimento-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📚_Open_Source-Contribuindo-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_Foco-Backend_e_APIs-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📱_Portfólio-Em_construção-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_FullStack-Web_Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_Open_Source-Contribuidor-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Especialização-Backend_&_APIs-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱_Portfólio-Disponível_em_breve-yellow?style=for-the-badge" />
 </p>
 
 ---
