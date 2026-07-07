@@ -284,7 +284,7 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 ## 🏷️ Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-FullStack_Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Backend_&_APIs-purple?style=flat-square" />
