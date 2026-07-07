@@ -210,7 +210,7 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
       <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
         <h3>🧙 SapiensWizard</h3>
         <p align="left">
-          <strong>📝 Descrição:</strong> Meu perfil README - Apresentação profissional no GitHub.<br />
+          <strong>📝 Descrição:</strong> README do meu perfil GitHub. Contém minha apresentação, stack de tecnologias, projetos em destaque e estatísticas de contribuição.<br />
           <strong>🔧 Tecnologias:</strong> Markdown
         </p>
         <p>
