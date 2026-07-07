@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, sou Onésimo Supe (SapiensWizard)
 
-<!--
-**SapiensWizard/SapiensWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 💻 Desenvolvedor Web focado em soluções modernas e escaláveis
+- 🌱 Atualmente aprendendo [suas tecnologias]
+- 🎯 Interesses: [Backend/Frontend/Fullstack]
+- 📫 Como me encontrar: [LinkedIn/Email]
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que uso
+- Linguagens: JavaScript, Python, etc.
+- Frameworks: React, Node.js, etc.
+- Ferramentas: Git, Docker, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SapiensWizard&show_icons=true)
