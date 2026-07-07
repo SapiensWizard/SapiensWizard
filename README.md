@@ -47,32 +47,19 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>📈 Commits e Atividade</h3>
-        <p>Visualize minhas estatísticas completas no meu perfil do GitHub.</p>
-        <a href="https://github.com/SapiensWizard" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Estatísticas-Completas-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br /><br />
-        <img src="https://img.shields.io/badge/Total_Contribuições-13-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Maior_Streak-2_dias-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streak_Atual-2_dias-FF6F00?style=flat-square" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SapiensWizard&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
       </td>
-      <td align="center" width="50%">
-        <h3>📊 Linguagens Mais Usadas</h3>
-        <p>Confira as tecnologias que mais utilizo nos meus projetos.</p>
-        <a href="https://github.com/SapiensWizard?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Repositórios-Todas_linguagens-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br /><br />
-        <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Svelte-10%25-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML/CSS-5%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapiensWizard&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" />
       </td>
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SapiensWizard&theme=radical&hide_border=true" width="70%" />
+</p>
 
 ---
 
@@ -159,26 +146,18 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 
 ## 📈 Minhas Contribuições
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SapiensWizard&theme=radical" width="90%" />
+</p>
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>📊 Resumo de Atividade</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Total_Commits-13-blue?style=for-the-badge" /><br />
-          <img src="https://img.shields.io/badge/Maior_Streak-2_dias-FF6F00?style=for-the-badge" /><br />
-          <img src="https://img.shields.io/badge/Streak_Atual-2_dias-FF6F00?style=for-the-badge" /><br />
-          <img src="https://img.shields.io/badge/Período-Maio_2025_ao_Presente-181717?style=for-the-badge" />
-        </p>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SapiensWizard&theme=radical" />
       </td>
-      <td align="center" width="50%">
-        <h3>📚 Linguagens por Repositório</h3>
-        <p>
-          <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br />
-          <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br />
-          <img src="https://img.shields.io/badge/Svelte-10%25-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /><br />
-          <img src="https://img.shields.io/badge/HTML/CSS-5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        </p>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SapiensWizard&theme=radical" />
       </td>
     </tr>
   </table>
