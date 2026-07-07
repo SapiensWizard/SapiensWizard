@@ -73,7 +73,9 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         </a>
         <p align="center">
           <strong>📋 gestor-usuarios</strong><br />
-          Sistema Web para gestão de usuários em ambiente de desenvolvimento e testes.
+          Sistema Web para gestão de usuários em ambiente de desenvolvimento e testes.<br />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=flat-square" />
         </p>
       </td>
       <td width="50%">
@@ -82,7 +84,57 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         </a>
         <p align="center">
           <strong>🚀 HACKATHON</strong><br />
-          Desafios de lógica de programação, algoritmos e resolução de problemas computacionais.
+          Desafios de lógica de programação, algoritmos e resolução de problemas.<br />
+          <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/SapiensWizard/academia-ippls">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapiensWizard&repo=academia-ippls&theme=radical&hide_border=true" />
+        </a>
+        <p align="center">
+          <strong>🏋️ academia-ippls</strong><br />
+          Sistema de Gestão de Academia com PHP POO, MySQL, JavaScript e jQuery.<br />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Privado-lightgrey?style=flat-square" />
+        </p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/SapiensWizard/fin-cntl">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapiensWizard&repo=fin-cntl&theme=radical&hide_border=true" />
+        </a>
+        <p align="center">
+          <strong>💰 fin-cntl</strong><br />
+          Sistema web de gestão financeira pessoal desenvolvido individualmente.<br />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Privado-lightgrey?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/SapiensWizard/conecta">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapiensWizard&repo=conecta&theme=radical&hide_border=true" />
+        </a>
+        <p align="center">
+          <strong>🔗 conecta</strong><br />
+          Plataforma gratuita para gestão, organização e importação de contatos.<br />
+          <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Privado-lightgrey?style=flat-square" />
+        </p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/SapiensWizard/SapiensWizard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapiensWizard&repo=SapiensWizard&theme=radical&hide_border=true" />
+        </a>
+        <p align="center">
+          <strong>🧙 SapiensWizard</strong><br />
+          Meu perfil README - Apresentação profissional no GitHub.<br />
+          <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=flat-square" />
         </p>
       </td>
     </tr>
