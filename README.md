@@ -284,11 +284,11 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 ## 🏷️ Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Status-Ativo-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_FullStack-Web_Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📚_Open_Source-Contribuidor-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_Especialização-Backend_&_APIs-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📱_Portfólio-Disponível_em_breve-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-FullStack_Developer-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contribuidor-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Backend_&_APIs-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfólio-Em_breve-yellow?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
