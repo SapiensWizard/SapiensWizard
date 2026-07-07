@@ -53,16 +53,12 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapiensWizard&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SapiensWizard&theme=radical&hide_border=true" width="100%" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SapiensWizard&theme=radical" width="100%" />
-      </td>
-    </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SapiensWizard&theme=radical&hide_border=true" width="70%" />
+</p>
 
 ---
 
@@ -88,6 +84,27 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
           <strong>🚀 HACKATHON</strong><br />
           Desafios de lógica de programação, algoritmos e resolução de problemas computacionais.
         </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 Minhas Contribuições
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SapiensWizard&theme=radical" width="90%" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SapiensWizard&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SapiensWizard&theme=radical" />
       </td>
     </tr>
   </table>
@@ -122,17 +139,6 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 
 ---
 
-## 🏷️ Status
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dev_Experience-Em_evolução-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_Source-Aprendendo-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Portfólio-Em_construção-yellow?style=flat-square" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
@@ -140,4 +146,15 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 <p align="center">
   <i>"A sabedoria é saber que nada sei."</i> — Sócrates<br />
   <strong>SapiensWizard</strong> - Construindo o futuro, uma linha de código por vez.
+</p>
+
+---
+
+## 🏷️ Badges Adicionais
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dev_Experience-Em_evolução-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_Source-Aprendendo-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Portfólio-Em_construção-yellow?style=flat-square" />
 </p>
