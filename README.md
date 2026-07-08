@@ -36,6 +36,14 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
     </td>
   </tr>
   <tr>
+    <td align="center"><strong>💻 IDEs C/C++</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Dev--C++-FF5C00?style=for-the-badge&logo=dev.to&logoColor=white" />
+      <img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white" />
+      <img src="https://img.shields.io/badge/MinGW-000000?style=for-the-badge&logo=mingw&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td align="center"><strong>🔄 Controlo de Versão</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -210,7 +218,7 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
       <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
         <h3>🧙 SapiensWizard</h3>
         <p align="left">
-          <strong>📝 Descrição:</strong> README do meu perfil GitHub. Contém minha apresentação, stack de tecnologias, projetos em destaque e estatísticas de contribuição.<br />
+          <strong>📝 Descrição:</strong> Meu perfil README - Apresentação profissional no GitHub com tecnologias, projetos e estatísticas.<br />
           <strong>🔧 Tecnologias:</strong> Markdown
         </p>
         <p>
@@ -219,6 +227,22 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         </p>
         <p>
           <a href="https://github.com/SapiensWizard/SapiensWizard" target="_blank">🔗 Ver repositório</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
+        <h3>🏥 farmacia-system</h3>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Sistema de gestão de farmácias desenvolvido em C com autenticação, CRUD de funcionários, produtos, clientes e vendas.<br />
+          <strong>🔧 Tecnologias:</strong> C, Dev-C++, Code::Blocks, MinGW
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=for-the-badge" />
+        </p>
+        <p>
+          <a href="https://github.com/SapiensWizard/farmacia-system" target="_blank">🔗 Ver repositório</a>
         </p>
       </td>
     </tr>
