@@ -96,6 +96,7 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 Estatísticas do GitHub
