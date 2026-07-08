@@ -89,10 +89,18 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>💻 Outras Linguagens</strong></td>
+    <td align="center"><strong>💻 Linguagens</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/AWK-000000?style=for-the-badge&logo=awk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🏥 Farmácia System</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dev--C++-FF5C00?style=for-the-badge&logo=dev.to&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arquivos_TXT-Persistência-000000?style=for-the-badge" />
     </td>
   </tr>
 </table>
