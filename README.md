@@ -243,7 +243,7 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         <h3>🏥 farmacia-system</h3>
         <p align="left">
           <strong>📝 Descrição:</strong> Sistema de gestão de farmácias desenvolvido em C com autenticação, CRUD de funcionários, produtos, clientes e vendas.<br />
-          <strong>🔧 Tecnologias:</strong> C, Dev-C++, Code::Blocks, MinGW
+          <strong>🔧 Tecnologias:</strong> Linguagem C, Dev-C++, Arquivos TXT para persistência de dados
         </p>
         <p>
           <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
