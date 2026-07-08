@@ -101,7 +101,6 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 
 ## 📊 Estatísticas do GitHub
 
-<!-- ESTATÍSTICAS ESTÁVEIS (BADGES) - SEMPRE FUNCIONAM -->
 <div align="center">
   <table>
     <tr>
@@ -111,9 +110,24 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
           <img src="https://img.shields.io/badge/Ver_Estatísticas-Completas-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br /><br />
-        <img src="https://img.shields.io/badge/Total_Contribuições-13-blue?style=flat-square" /><br />
-        <img src="https://img.shields.io/badge/Maior_Streak-2_dias-FF6F00?style=flat-square" /><br />
-        <img src="https://img.shields.io/badge/Streak_Atual-2_dias-FF6F00?style=flat-square" />
+        <table>
+          <tr>
+            <td align="center">
+              <strong>📊 Total</strong><br />
+              <img src="https://img.shields.io/badge/13-Commits-blue?style=flat-square" />
+            </td>
+            <td align="center">
+              <strong>🔥 Maior Streak</strong><br />
+              <img src="https://img.shields.io/badge/2-dias-FF6F00?style=flat-square" />
+            </td>
+            <td align="center">
+              <strong>⚡ Streak Atual</strong><br />
+              <img src="https://img.shields.io/badge/2-dias-FF6F00?style=flat-square" />
+            </td>
+          </tr>
+        </table>
+        <br />
+        <img src="https://img.shields.io/badge/📅_Período-Maio_2025_ao_Presente-181717?style=for-the-badge" />
       </td>
       <td align="center" width="50%">
         <h3>📊 Linguagens Mais Usadas</h3>
@@ -121,10 +135,40 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
           <img src="https://img.shields.io/badge/Ver_Repositórios-Todas_linguagens-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br /><br />
-        <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=flat-square&logo=php&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br />
-        <img src="https://img.shields.io/badge/Svelte-10%25-FF3E00?style=flat-square&logo=svelte&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/HTML/CSS-5%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <table>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=flat-square&logo=php&logoColor=white" />
+            </td>
+            <td>
+              <div style="background: #777BB4; width: 70px; height: 8px; border-radius: 4px;"></div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+            </td>
+            <td>
+              <div style="background: #F7DF1E; width: 15px; height: 8px; border-radius: 4px;"></div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Svelte-10%25-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+            </td>
+            <td>
+              <div style="background: #FF3E00; width: 10px; height: 8px; border-radius: 4px;"></div>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/HTML/CSS-5%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            </td>
+            <td>
+              <div style="background: #E34F26; width: 5px; height: 8px; border-radius: 4px;"></div>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
