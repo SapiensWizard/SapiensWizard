@@ -246,6 +246,25 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         </p>
       </td>
     </tr>
+        <tr>
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
+        <h3>🏖️ turismo-itls</h3>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Sistema de gestão para agência de turismo com C# e Windows Forms. Cadastro de cidades, hotéis, restaurantes, pontos turísticos, clientes, funcionários e reservas. Inclui instalador (SETUP) e geração de relatórios em PDF.<br />
+          <strong>🔧 Tecnologias:</strong> C#, Windows Forms, .NET Framework, MySQL, PDF Generation
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+          <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Privado-lightgrey?style=for-the-badge" />
+        </p>
+        <p>
+          <a href="https://github.com/SapiensWizard/turismo-itls" target="_blank">🔗 Ver repositório</a>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
