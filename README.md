@@ -246,15 +246,6 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
         </p>
       </td>
     </tr>
-      <tr>
-    <td align="center"><strong>🏢 HR Management</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/PDF-FPDF-FF0000?style=for-the-badge" />
-    </td>
-  </tr>
   </table>
 </div>
 
