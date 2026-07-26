@@ -101,7 +101,6 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
 
 ## 📊 Estatísticas do GitHub
 
-<!-- ESTATÍSTICAS ESTÁVEIS (BADGES) - SEMPRE FUNCIONAM -->
 <div align="center">
   <table>
     <tr>
@@ -111,9 +110,24 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
           <img src="https://img.shields.io/badge/Ver_Estatísticas-Completas-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br /><br />
-        <img src="https://img.shields.io/badge/Total_Contribuições-13-blue?style=flat-square" /><br />
-        <img src="https://img.shields.io/badge/Maior_Streak-2_dias-FF6F00?style=flat-square" /><br />
-        <img src="https://img.shields.io/badge/Streak_Atual-2_dias-FF6F00?style=flat-square" />
+        <table>
+          <tr>
+            <td align="center">
+              <strong>📊 Total</strong><br />
+              <img src="https://img.shields.io/badge/13-Commits-blue?style=flat-square" />
+            </td>
+            <td align="center">
+              <strong>🔥 Maior Streak</strong><br />
+              <img src="https://img.shields.io/badge/2-dias-FF6F00?style=flat-square" />
+            </td>
+            <td align="center">
+              <strong>⚡ Streak Atual</strong><br />
+              <img src="https://img.shields.io/badge/2-dias-FF6F00?style=flat-square" />
+            </td>
+          </tr>
+        </table>
+        <br />
+        <img src="https://img.shields.io/badge/📅_Período-Maio_2025_ao_Presente-181717?style=for-the-badge" />
       </td>
       <td align="center" width="50%">
         <h3>📊 Linguagens Mais Usadas</h3>
@@ -121,10 +135,28 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
           <img src="https://img.shields.io/badge/Ver_Repositórios-Todas_linguagens-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <br /><br />
-        <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=flat-square&logo=php&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br />
-        <img src="https://img.shields.io/badge/Svelte-10%25-FF3E00?style=flat-square&logo=svelte&logoColor=white" /><br />
-        <img src="https://img.shields.io/badge/HTML/CSS-5%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <table>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/PHP-70%25-777BB4?style=flat-square&logo=php&logoColor=white" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Svelte-10%25-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/HTML/CSS-5%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
@@ -234,15 +266,33 @@ Acredito que a tecnologia deve resolver problemas reais, e é isso que me motiva
       <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
         <h3>🏥 farmacia-system</h3>
         <p align="left">
-          <strong>📝 Descrição:</strong> Sistema de gestão de farmácias desenvolvido em C com autenticação, CRUD de funcionários, produtos, clientes e vendas.<br />
-          <strong>🔧 Tecnologias:</strong> Linguagem C, Dev-C++, Arquivos TXT para persistência de dados
+          <strong>📝 Descrição:</strong> Sistema de gestão de farmácias desenvolvido em C com autenticação, CRUD de funcionários, produtos, clientes e vendas. Utiliza arquivos TXT para persistência de dados.<br />
+          <strong>🔧 Tecnologias:</strong> C, Dev-C++, Arquivos TXT
         </p>
         <p>
           <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/Dev--C++-FF5C00?style=for-the-badge&logo=dev.to&logoColor=white" />
+          <img src="https://img.shields.io/badge/TXT-Persistência-000000?style=for-the-badge" />
           <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=for-the-badge" />
         </p>
         <p>
           <a href="https://github.com/SapiensWizard/farmacia-system" target="_blank">🔗 Ver repositório</a>
+        </p>
+      </td>
+      <td width="50%" align="center" style="padding: 15px; border-radius: 10px;">
+        <h3>🏢 hr-department-management</h3>
+        <p align="left">
+          <strong>📝 Descrição:</strong> Sistema de gestão de departamentos em PHP com MySQL, Bootstrap 5, pesquisa, CRUD completo e exportação para PDF.<br />
+          <strong>🔧 Tecnologias:</strong> PHP, MySQL, Bootstrap 5, FPDF
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Público-brightgreen?style=for-the-badge" />
+        </p>
+        <p>
+          <a href="https://github.com/SapiensWizard/hr-department-management" target="_blank">🔗 Ver repositório</a>
         </p>
       </td>
     </tr>
